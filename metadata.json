@@ -1,0 +1,6 @@
+{
+  "name": "PetPulse OS",
+  "description": "Immediate pet emergency reservation system with AI-powered symptom analysis and real-time clinic slot locking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI-powered Analysis", "Real-time Slot Reservation"]
+}
